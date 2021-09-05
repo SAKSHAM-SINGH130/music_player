@@ -2,5 +2,5 @@
 online mp4 music player
 ------------------------------------
 
-This is totly javascript project.
+This is totally javascript project.
 you can download complete code.
